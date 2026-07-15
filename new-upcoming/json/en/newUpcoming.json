@@ -1,0 +1,83 @@
+[
+  {
+    "catId": 5,
+    "catlabel": "NEW DESKTOP APP",
+    "subCat": [
+      {
+        "subCatId": 6,
+        "title": "New table themes and card decks",
+        "description": "Upgraded tables with fresh new poker themes",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/new-1.png",
+        "link": ""
+      },
+      {
+        "subCatId": 7,
+        "title": "Improved multi-tabling capabilities",
+        "description": "Enjoy multi-tabling with a more intuitive experience",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/new-2.png",
+        "link": ""
+      },
+      {
+        "subCatId": 8,
+        "title": "Smarter lobbies, faster decisions",
+        "description": "Enhanced information listing with relevant aspects up front",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/new-3.png",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "catId": 9,
+    "catlabel": "CASH GAME FEATURES",
+    "subCat": [
+      {
+        "subCatId": 10,
+        "title": "EV Cashout",
+        "description": "Your go-to feature to cushion bad beats",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/cash-new-1.png",
+        "link": "https://pages-app.com/ev-cashout/?in_app_mode=true"
+      },
+      {
+        "subCatId": 11,
+        "title": "Interactive RIT",
+        "description": "Take control of the game with a mutual decision to run the board once, twice or twice⁺¹",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/cash-new-2.png",
+        "link": "https://pages-app.com/run-it-multiple-times/?in_app_mode=true"
+      },
+      {
+        "subCatId": 12,
+        "title": "AOF",
+        "description": "An exciting new format, go All-In or Fold, repeat",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/cash-new-3.png",
+        "link": "https://pages-app.com/all-in-or-fold-aof-poker/?in_app_mode=true"
+      }
+    ]
+  },
+  {
+    "catId": 13,
+    "catlabel": "POKERINTEL",
+    "subCat": [
+      {
+        "subCatId": 14,
+        "title": "Advanced Poker Analysis",
+        "description": "Take poker analysis to the next level with powerful new tools",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/pokerintel-1.png",
+        "link": ""
+      },
+      {
+        "subCatId": 15,
+        "title": "Smart Poker Insights",
+        "description": "Gather insights about your game with powerful new features",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/pokerintel-2.png",
+        "link": ""
+      },
+      {
+        "subCatId": 16,
+        "title": "Personal Poker Lab",
+        "description": "A modern poker toolkit featuring tagged hands and pre-flop charts for smarter gameplay",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/poker-intel-3.png",
+        "link": ""
+      }
+    ]
+  }
+]
