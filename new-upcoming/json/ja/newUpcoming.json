@@ -1,0 +1,83 @@
+[
+  {
+    "catId": 5,
+    "catlabel": "新しいデスクトップアプリ",
+    "subCat": [
+      {
+        "subCatId": 6,
+        "title": "新しいテーブルテーマとカードデッキ",
+        "description": "新鮮なポーカーテーマでアップグレードされたテーブル",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/new-1.png",
+        "link": ""
+      },
+      {
+        "subCatId": 7,
+        "title": "マルチテーブル機能の向上",
+        "description": "より直感的な操作でマルチテーブルを楽しむ",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/new-2.png",
+        "link": ""
+      },
+      {
+        "subCatId": 8,
+        "title": "よりスマートなロビー、より迅速な判断",
+        "description": "関連情報を前面に押し出した、改善された情報表示",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/new-3.png",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "catId": 9,
+    "catlabel": "キャッシュゲーム機能",
+    "subCat": [
+      {
+        "subCatId": 10,
+        "title": "EVキャッシュアウト",
+        "description": "バッドビートを和らげるためのおすすめ機能",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/cash-new-1.png",
+        "link": "https://pages-app.com/ev-cashout/?in_app_mode=true"
+      },
+      {
+        "subCatId": 11,
+        "title": "インタラクティブRIT",
+        "description": "ボードを1回、2回、または2⁺¹回ランするかどうかを相互に決定し、ゲームをコントロール",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/cash-new-2.png",
+        "link": "https://pages-app.com/run-it-multiple-times/?in_app_mode=true"
+      },
+      {
+        "subCatId": 12,
+        "title": "AOF",
+        "description": "エキサイティングな新しいフォーマット。オールインかフォールドかを繰り返す",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/cash-new-3.png",
+        "link": "https://pages-app.com/all-in-or-fold-aof-poker/?in_app_mode=true"
+      }
+    ]
+  },
+  {
+    "catId": 13,
+    "catlabel": "POKERINTEL",
+    "subCat": [
+      {
+        "subCatId": 14,
+        "title": "高度なポーカー分析",
+        "description": "強力な新ツールでポーカー分析を次のレベルへ",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/pokerintel-1.png",
+        "link": ""
+      },
+      {
+        "subCatId": 15,
+        "title": "スマートポーカーインサイト",
+        "description": "強力な新機能で自分のゲームに関する洞察を得る",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/pokerintel-2.png",
+        "link": ""
+      },
+      {
+        "subCatId": 16,
+        "title": "パーソナルポーカーラボ",
+        "description": "タグ付きハンドやプリフロップチャートを備えた、よりスマートなプレイのためのモダンなポーカーツールキット",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/poker-intel-3.png",
+        "link": ""
+      }
+    ]
+  }
+]
