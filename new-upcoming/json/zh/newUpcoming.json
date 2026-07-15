@@ -1,0 +1,83 @@
+[
+  {
+    "catId": 5,
+    "catlabel": "全新桌面应用",
+    "subCat": [
+      {
+        "subCatId": 6,
+        "title": "全新牌桌主题与牌组",
+        "description": "升级版牌桌，配备全新的扑克主题",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/new-1.png",
+        "link": ""
+      },
+      {
+        "subCatId": 7,
+        "title": "增强的多桌操作能力",
+        "description": "以更直观的体验享受多桌游戏",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/new-2.png",
+        "link": ""
+      },
+      {
+        "subCatId": 8,
+        "title": "更智能的大厅，更快的决策",
+        "description": "优化信息展示，突出关键内容",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/new-3.png",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "catId": 9,
+    "catlabel": "现金桌功能",
+    "subCat": [
+      {
+        "subCatId": 10,
+        "title": "EV 提现",
+        "description": "助您缓冲爆冷损失的首选功能",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/cash-new-1.png",
+        "link": "https://pages-app.com/ev-cashout/?in_app_mode=true"
+      },
+      {
+        "subCatId": 11,
+        "title": "互动式 RIT",
+        "description": "通过共同决定发牌一次、两次或两次⁺¹，掌控游戏节奏",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/cash-new-2.png",
+        "link": "https://pages-app.com/run-it-multiple-times/?in_app_mode=true"
+      },
+      {
+        "subCatId": 12,
+        "title": "AOF",
+        "description": "令人兴奋的全新玩法——全下或弃牌，循环进行",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/cash-new-3.png",
+        "link": "https://pages-app.com/all-in-or-fold-aof-poker/?in_app_mode=true"
+      }
+    ]
+  },
+  {
+    "catId": 13,
+    "catlabel": "POKERINTEL",
+    "subCat": [
+      {
+        "subCatId": 14,
+        "title": "高级扑克分析",
+        "description": "借助强大的新工具，将扑克分析提升至新高度",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/pokerintel-1.png",
+        "link": ""
+      },
+      {
+        "subCatId": 15,
+        "title": "智能扑克洞察",
+        "description": "通过强大的新功能收集关于您游戏表现的洞察",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/pokerintel-2.png",
+        "link": ""
+      },
+      {
+        "subCatId": 16,
+        "title": "个人扑克实验室",
+        "description": "现代化扑克工具包，包含标记手牌和翻前图表，助力更智能的游戏策略",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/poker-intel-3.png",
+        "link": ""
+      }
+    ]
+  }
+]
