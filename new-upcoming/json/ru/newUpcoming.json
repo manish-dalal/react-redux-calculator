@@ -1,0 +1,83 @@
+[
+  {
+    "catId": 5,
+    "catlabel": "НОВОЕ ДЕСКТОПНОЕ ПРИЛОЖЕНИЕ",
+    "subCat": [
+      {
+        "subCatId": 6,
+        "title": "Новые темы столов и колоды карт",
+        "description": "Улучшенные столы с новыми свежими покерными темами",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/new-1.png",
+        "link": ""
+      },
+      {
+        "subCatId": 7,
+        "title": "Улучшенные возможности игры за несколькими столами",
+        "description": "Наслаждайтесь игрой за несколькими столами с более интуитивным интерфейсом",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/new-2.png",
+        "link": ""
+      },
+      {
+        "subCatId": 8,
+        "title": "Умные лобби, быстрые решения",
+        "description": "Улучшенный список информации с выводом ключевых аспектов на передний план",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/new-3.png",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "catId": 9,
+    "catlabel": "ФУНКЦИИ КЭШ-ИГР",
+    "subCat": [
+      {
+        "subCatId": 10,
+        "title": "Вывод EV",
+        "description": "Ваша главная функция для смягчения неудачных раздач",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/cash-new-1.png",
+        "link": "https://pages-app.com/ev-cashout/?in_app_mode=true"
+      },
+      {
+        "subCatId": 11,
+        "title": "Интерактивный RIT",
+        "description": "Возьмите контроль над игрой, совместно решив запустить доску один, два или два⁺¹ раза",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/cash-new-2.png",
+        "link": "https://pages-app.com/run-it-multiple-times/?in_app_mode=true"
+      },
+      {
+        "subCatId": 12,
+        "title": "AOF",
+        "description": "Захватывающий новый формат: идти ва-банк или сбрасывать, повторять",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/cash-new-3.png",
+        "link": "https://pages-app.com/all-in-or-fold-aof-poker/?in_app_mode=true"
+      }
+    ]
+  },
+  {
+    "catId": 13,
+    "catlabel": "POKERINTEL",
+    "subCat": [
+      {
+        "subCatId": 14,
+        "title": "Расширенный анализ покера",
+        "description": "Выведите анализ покера на новый уровень с помощью мощных новых инструментов",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/pokerintel-1.png",
+        "link": ""
+      },
+      {
+        "subCatId": 15,
+        "title": "Умные покерные инсайты",
+        "description": "Получайте информацию о своей игре с помощью новых мощных функций",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/pokerintel-2.png",
+        "link": ""
+      },
+      {
+        "subCatId": 16,
+        "title": "Персональная покерная лаборатория",
+        "description": "Современный покерный инструментарий с отмеченными руками и префлоп-чартами для более умной игры",
+        "image": "https://d3iairga26vtpo.cloudfront.net/config/assets/new-home-page/poker-intel-3.png",
+        "link": ""
+      }
+    ]
+  }
+]
